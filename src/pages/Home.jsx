@@ -12,7 +12,7 @@ import Footer from '../components/Footer';
 import expressImg from '../assets/Express.png';
 import nodeImg from '../assets/Node.png';
 import reactImg from '../assets/ReactIMg.png';
-import Mongo from '../assets/Mongo.png';
+import Mongo from '../assets/mongo.png';
 import vapt from '../assets/vapt.png';
 
 
